@@ -1,0 +1,564 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+img.title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.description3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #409B89;
+	font-size: 30;
+	width: 1000px;
+	letter-spacing: 0.6;
+	top: 50px;
+	margin-left: auto;
+    margin-right: auto;
+	line-height: 1.2;
+	position: relative;
+    text-align: center;
+
+}
+
+img.bargraph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 110px;
+    top: 2500px;
+}
+
+#us {
+    background: none;
+    position: absolute;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 107px;
+    top: 2560.5px;
+}
+
+#us2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 300px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 280px;
+    z-index: 10;
+}
+
+#canada {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 219.2px;
+    top: -107px;
+}
+
+#canada2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 300px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 280px;
+    z-index: 10;
+}
+
+#chile {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 406px;
+    top: 394px;
+}
+
+#chile2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 150px;
+    z-index: 10;
+}
+
+#uk {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 624px;
+    top: 55px;
+}
+
+#uk2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 100px;
+    z-index: 10;
+}
+
+#norway {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 684px;
+    top: -148px;
+}
+
+#norway2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 100px;
+    z-index: 10;
+}
+
+#germany {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 667px;
+    top: -13px;
+}
+
+#germany2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 50px;
+    z-index: 10;
+}
+
+#france {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 641px;
+    top: -37px;
+}
+
+#france2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 50px;
+    z-index: 10;
+}
+
+#italy {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 675px;
+    top: -68px;
+}
+
+#italy2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 50px;
+    z-index: 10;
+}
+
+#israel {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 753px;
+    top: -52px;
+}
+
+#israel2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: 100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 50px;
+    z-index: 10;
+}
+
+#korea {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 1063px;
+    top: -158px;
+}
+
+#korea2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: -100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 50px;
+    z-index: 10;
+}
+
+#japan {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 1102px;
+    top: -232px;
+}
+
+#japan2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: -100px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 100px;
+    z-index: 10;
+}
+
+#aus {
+    background: none;
+    position:relative;
+    width:100px;
+    height:30px;
+    line-height:27px;
+    display:block;
+    border:0px solid #dadada;
+    margin:15px 0 0 10px;
+    text-align:center;
+    left: 1068px;
+    top: -286px;
+}
+
+#aus2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18;
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+    overflow:hidden;
+    left: -300px;
+    width: 350px;
+    padding: 15px;
+    line-height: 25px;
+    position: absolute;
+    top: 90px;
+    z-index: 10;
+}
+
+#green {
+	left: 100px;
+	position: relative;
+	top: -300px;
+}
+
+p.green {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18;
+    left: 104px;
+    top: -502px;
+    
+    position: relative;
+}
+
+p.green1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15;
+    left: 112px;
+    top: -450px;
+    
+    position: relative;
+
+}
+
+p.green2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15;
+    left: 270px;
+    top: -480px;
+    
+    position: relative;
+
+}
+
+p.red {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18;
+    left: 104px;
+    top: -473px;
+    
+    position: relative;
+}
+
+p.red1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15;
+    left: 104px;
+    top: -420px;
+    
+    position: relative;
+}
+
+p.red2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15;
+    left: 262px;
+    top: -449px;
+    
+    position: relative;
+}
+
+#red {
+	left: 100px;
+	position: relative;
+	top: -270px;
+}
+
+.popupBox {
+    visibility:hidden;
+    opacity:0;
+    -webkit-transition:visibility 0s linear 0.1s, opacity 0.1s linear;
+    -moz-transition:visibility 0s linear 0.1s, opacity 0.1s linear;
+    -o-transition:visibility 0s linear 0.1s, opacity 0.1s linear;
+    transition:visibility 0s linear 0.1s, opacity 0.1s linear;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition:all 0.2s ease;
+    transition: all 0.2s ease;
+    -webkit-transition-delay: 0.2s;
+    -moz-transition-delay: 0.2s;
+    -o-transition-delay:0.2s;
+    transition-delay: 0.2s;
+}
+.popupHoverElement:hover > .popupBox {
+    visibility:visible;
+    opacity:1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    -o-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+a {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 30;
+}
+
+a:link {
+    color: #409B89;
+    text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+    color: #409B89;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #409B89;
+    text-decoration: none;
+}
+
+#benefits {
+	position: relative;
+	left: 390px;
+	top: 500px;
+	z-index: 0;
+}
+
+#home {
+	position: relative;
+	z-index: 1;
+    top: 590;
+    left: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#choosing {
+	position: relative;
+	left: 810px;
+	top: 390px;
+}

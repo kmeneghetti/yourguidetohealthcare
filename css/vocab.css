@@ -1,0 +1,278 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+img.vocab {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.description4 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 30;
+	width: 1000px;
+	letter-spacing: 0.6;
+	top: 50px;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+#claim {
+	position: relative;
+	left: 180px;
+	
+}
+
+#copay {
+	position: relative;
+	left: 180px;
+	
+}
+
+#coinsurance {
+	position: relative;
+	left: 180px;
+	
+}
+
+#dependent {
+	position: relative;
+	left: 180px;
+	
+}
+
+#deductible {
+	position: relative;
+	left: 180px;
+	
+}
+
+#medicaid {
+	position: relative;
+	left: 180px;
+	
+}
+
+
+#pocket {
+	position: relative;
+	left: 180px;
+	
+}
+
+#policyholder {
+	position: relative;
+	left: 180px;
+	
+}
+
+#premium {
+	position: relative;
+	left: 180px;
+	
+}
+
+#referral {
+	position: relative;
+	left: 180px;
+}
+
+p.claim {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 420px;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+p.copay {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 420px;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+p.coinsurance {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 620px;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+p.dependent {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 520px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.deductible {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 520px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.medicaid {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 530px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.pocket {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -80px;
+	left: 620px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.policyholder {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -80px;
+	left: 620px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.premium {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -100px;
+	left: 510px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.referral {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 20;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: -90px;
+	left: 510px;
+	line-height: 1.2;
+	position: relative;
+}
+
+p.other {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7D5E99;
+	font-size: 30;
+	width: 700px;
+	letter-spacing: 0.6;
+	top: 10px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	line-height: 1.2;
+	position: relative;
+	text-align: center;
+}
+
+a {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 30;
+}
+
+a:link {
+    color: #D84748;
+    text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+    color: #D84748;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #D84748;
+    text-decoration: none;
+}
+
+#choosing {
+	position: relative;
+	left: 340px;
+	top: -70px;
+	z-index: 0;
+}
+
+#home {
+	z-index: 5;
+	position: relative;
+	display: block;
+	left: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#benefits {
+	position: relative;
+	left: 880px;
+	top: -200px;
+	z-index: 0;
+}

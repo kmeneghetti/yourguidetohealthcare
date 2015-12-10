@@ -1,0 +1,85 @@
+#red {
+	width: 100%;
+	height: 400px;
+	background-color: #D84748;
+	top: 200px;
+	position: relative;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #D84748;
+	font-size: 15;
+	width: 900px;
+	letter-spacing: 0.6;
+	
+	
+	line-height: 1.2;
+	position: relative;
+}
+
+p.description {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 30;
+	width: 900px;
+	letter-spacing: 0.6;
+	top: 110px;
+	left: 300px;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+#benefits {
+	top: -66px;
+	float: left;
+	position: relative;
+	z-index: 5;
+}
+
+#world {
+	top: -66px;
+	float: left;
+	position: relative;
+	z-index: 5;
+}
+
+#choosing {
+	top: -66px;
+	float: left;
+	z-index: 5;
+	position: relative;
+}
+
+#vocab {
+	top: -66px;
+	float: left;
+	float: left;
+	z-index: 5;
+	position: relative;
+}
+
+a:link {
+    color: #4F4FB7;
+    text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+    color: #4F4FB7;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #4F4FB7;
+    text-decoration: none;
+}

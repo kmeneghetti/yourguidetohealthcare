@@ -1,0 +1,342 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+img.choosing {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.description5 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #1691B2;
+	font-size: 30;
+	width: 1000px;
+	letter-spacing: 0.6;
+	top: 20px;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	line-height: 1.2;
+	position: relative;
+
+}
+
+p.description6 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 80px;
+	
+}
+
+#bluebanner {
+	width: 100%;
+	height: 300px;
+	background-color: #1691B2;
+}
+
+img.navigating {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.cart {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 60px;
+}
+
+p.navigate {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000000;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 100px;
+}
+
+img.stress {
+	position: relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: -100px;
+    
+}
+
+#bluebanner2 {
+	width: 100%;
+	height: 300px;
+	background-color: #1691B2;
+	top: 200px;
+	position: relative;
+}
+
+p.medicaid {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 80px;
+	
+}
+
+img.hmo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 200px;
+    position: relative;
+}
+
+img.hmo2 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 240px;
+
+}
+
+p.hmo {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000000;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 100px;
+}
+
+#bluebanner3 {
+	width: 100%;
+	height: 480px;
+	background-color: #1691B2;
+	top: 360px;
+	position: relative;
+}
+
+img.ppo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 55px;
+}
+
+p.ppo {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 50px;
+}
+
+img.hmoblue {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 130px;
+}
+
+p.hmoblue {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000000;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: 140px;
+}
+
+#bluebanner4 {
+	width: 100%;
+	height: 580px;
+	background-color: #1691B2;
+	top: 200px;
+	position: relative;
+}
+
+img.epo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 40px;
+}
+
+p.epo {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ffffff;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: -220px;
+}
+
+
+img.twentysix {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: -80px;
+    position: relative;
+}
+
+img.cake {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -50px;
+}
+
+p.cake {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000000;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: -5px;
+}
+
+img.smile {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.other {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.other {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000000;
+	font-size: 30;
+	text-align: center;
+	letter-spacing: 0.6;
+	line-height: 1.2;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+	width: 1000px;
+	top: -5px;
+}
+
+#world {
+	position: relative;
+	left: 400px;
+	top: 200px;
+	z-index: 1;
+}
+
+
+#home {
+    position: relative;
+    z-index: 10;
+    top: 300;
+    left: 730px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#vocab {
+	z-index: 1;
+	position: relative;
+	left: 930px;
+	top: 130px;
+}
+
+a:link {
+    color: #D84748;
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: #D84748;
+}
+
+
+a:hover {
+    color: gray;
+}
+
+
+a:active {
+    color: #D84748;
+}
+
+
+
+/*
+#whitespace {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+	height: 200px;
+	background-color: #ffffff;
+	z-index: 100;
+}
+*/
+
+
